@@ -1,1 +1,32 @@
+# Compiled Java files
 *.class
+
+# IDE/Editor files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+*.prefs
+
+# Build artifacts
+target/
+build/
+bin/
+
+# Dependencies
+.gradle/
+.m2/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Sensitive information
+application.properties
